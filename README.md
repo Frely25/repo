@@ -9,3 +9,8 @@
 Новый контент
 
 # Обновленный README.md
+
+# Features
+- Git commit 
+- Git pull
+- Git push
